@@ -4,7 +4,7 @@
 #include "leap-controller.hpp"
 
 #define LUALEAP_VERSION		"lua-leap 0.1.0"
-#define LUALEAP_COPYRIGHT	"Copyright (C) 2017, 2020 - Lua-leap by Marco Pompili (pompilimrc@gmail.com)."
+#define LUALEAP_COPYRIGHT	"Copyright (C) 2017, 2021 - Lua-leap by Marco Pompili (pompilimrc@gmail.com)."
 #define LUALEAP_DESCRIPTION	"Lua bindings for Leap Motion Controller."
 
 // Lib
