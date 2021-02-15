@@ -1,7 +1,7 @@
 lua-leap
 ========
 
-Lua bindings for the Leap Motion Controller (for version 2.3.1 on GNU/Linux) for lua 5.2 and later.
+Lua bindings for the [Leap Motion Controller](https://developer.leapmotion.com/documentation/) (version 2.3.1 on GNU/Linux) for lua 5.2 and later.
 
 # Installation
 
